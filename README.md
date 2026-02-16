@@ -9,7 +9,6 @@ I spent 6 sleepless nights building and refining this bot. It is designed to be 
 - **CREDIT:** If you share this or use the code in your own project, please keep my name (tuna_man20) on it.
 
 ## 🚀 Features
-- **Auto-Sell Path:** Sells your inventory automatically.
 - **Smart Priority Buying:** Uses image recognition to find the best seeds first.
 - **Gear Spot Checks:** Automatically buys water buckets and frost grenades.
 - **Live Overlay:** Shows your status, total buys, and completed runs in real-time.
