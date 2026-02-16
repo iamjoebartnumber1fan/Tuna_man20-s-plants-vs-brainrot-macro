@@ -1,7 +1,7 @@
 # 🌊 Ultimate Farm Bot (V43.1)
 **Developed by tuna_man20**
 
-I spent 6 sleepless nights building and refining this bot. It is designed to be the most efficient automated farmer for plants vc brainrots. 
+I spent 6 sleepless nights building and refining this bot. It is designed to be the most efficient automated farmer for plants vs brainrots. 
 
 ## ⚖️ License & Rules
 - **FREE FOR EVERYONE:** I made this to help the community.
